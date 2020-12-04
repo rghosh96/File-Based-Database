@@ -1,0 +1,445 @@
+Script started on Wed Feb  5 19:16:37 2020
+19:16  up 35 days,  2:31, 2 users, load averages: 1.40 1.53 1.58
+USER     TTY      FROM              LOGIN@  IDLE WHAT
+[1m[7m%[27m[1m[0m                                                                                ]2;rghosh@Rashis-MacBook-Pro: ~/Desktop/dbhw1]1;~/Desktop/dbhw1[0m[27m[24m[J[32mrghosh[32m@Rashis-MacBook-Pro[00m ~/Desktop/dbhw1 [31m»[00m [K[?1h=[?2004hscript./output[8Dg++ *.cpp -o output[?1l>[?2004l
+]2;g++ *.cpp -o output]1;g++[1m[7m%[27m[1m[0m                                                                                ]2;rghosh@Rashis-MacBook-Pro: ~/Desktop/dbhw1]1;~/Desktop/dbhw1[0m[27m[24m[J[32mrghosh[32m@Rashis-MacBook-Pro[00m ~/Desktop/dbhw1 [31m»[00m [K[?1h=[?2004h../output[?1l>[?2004l
+]2;./output]1;./outputWelcome to this database program! Please choose from the following: 
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 9
+You picked 9
+Successfully closed database! Thank u for your time :)
+[1m[7m%[27m[1m[0m                                                                                ]2;rghosh@Rashis-MacBook-Pro: ~/Desktop/dbhw1]1;~/Desktop/dbhw1[0m[27m[24m[J[32mrghosh[32m@Rashis-MacBook-Pro[00m ~/Desktop/dbhw1 [31m»[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsDatabase.cpp       Records.cpp        main.cpp           typescript
+Database.h         Records.h          [1m[36mnbproject[39;49m[0m
+FORTUNE_500_HQ.csv [1m[36mbuild[39;49m[0m              [31moutput[39;49m[0m
+Makefile           [1m[36mdist[39;49m[0m               report.txt
+[1m[7m%[27m[1m[0m                                                                                ]2;rghosh@Rashis-MacBook-Pro: ~/Desktop/dbhw1]1;~/Desktop/dbhw1[0m[27m[24m[J[32mrghosh[32m@Rashis-MacBook-Pro[00m ~/Desktop/dbhw1 [31m»[00m [K[?1h=[?2004hls./output[8Dg++ *.cpp -o output[?1l>[?2004l
+]2;g++ *.cpp -o output]1;g++[1m[7m%[27m[1m[0m                                                                                ]2;rghosh@Rashis-MacBook-Pro: ~/Desktop/dbhw1]1;~/Desktop/dbhw1[0m[27m[24m[J[32mrghosh[32m@Rashis-MacBook-Pro[00m ~/Desktop/dbhw1 [31m»[00m [K[?1h=[?2004h../output[?1l>[?2004l
+]2;./output]1;./outputWelcome to this database program! Please choose from the following: 
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 1
+You picked 1
+Please enter the filename of your csv file (without csv extension):
+FORTUNE_500_HQ
+rm: FORTUNE_500_HQ.overflow: No such file or directory
+successfully opened db!
+Num recs: 501 & rec size: 101Successfully created database in FORTUNE_500_HQ.data!!!
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 9
+You picked 9
+Successfully closed database! Thank u for your time :)
+[1m[7m%[27m[1m[0m                                                                                ]2;rghosh@Rashis-MacBook-Pro: ~/Desktop/dbhw1]1;~/Desktop/dbhw1[0m[27m[24m[J[32mrghosh[32m@Rashis-MacBook-Pro[00m ~/Desktop/dbhw1 [31m»[00m [K[?1h=[?2004hlls[?1l>[?2004l
+]2;ls -G]1;lsDatabase.cpp            Makefile                [1m[36mnbproject[39;49m[0m
+Database.h              Records.cpp             [31moutput[39;49m[0m
+FORTUNE_500_HQ.config   Records.h               report.txt
+FORTUNE_500_HQ.csv      [1m[36mbuild[39;49m[0m                   typescript
+FORTUNE_500_HQ.data     [1m[36mdist[39;49m[0m
+FORTUNE_500_HQ.overflow main.cpp
+[1m[7m%[27m[1m[0m                                                                                ]2;rghosh@Rashis-MacBook-Pro: ~/Desktop/dbhw1]1;~/Desktop/dbhw1[0m[27m[24m[J[32mrghosh[32m@Rashis-MacBook-Pro[00m ~/Desktop/dbhw1 [31m»[00m [K[?1h=[?2004hls./output[8Dg++ *.cpp -o output[?1l>[?2004l
+]2;g++ *.cpp -o output]1;g++[1m[7m%[27m[1m[0m                                                                                ]2;rghosh@Rashis-MacBook-Pro: ~/Desktop/dbhw1]1;~/Desktop/dbhw1[0m[27m[24m[J[32mrghosh[32m@Rashis-MacBook-Pro[00m ~/Desktop/dbhw1 [31m»[00m [K[?1h=[?2004hg++ *.cpp -o output[19Dls                 [17D./output[?1l>[?2004l
+]2;./output]1;./outputWelcome to this database program! Please choose from the following: 
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Error: no database is currently open ):
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 2
+You picked 2
+Please enter name of database you would like to open: 
+FORTUNE_500_HQ
+Successfully opened the database, FORTUNE_500_HQ.data!!!
+FORTUNE_500_HQ.config
+num recs: 501; rec size: 101; overflow count: 0
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Please enter the name of the record you would like to display! APPLE
+Found requested record! APPLE 3 CUPERTINO CA 95014 116000
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Please enter the name of the record you would like to display! 3M
+Found requested record! 3M 94 MAPLEWOOD MN 55144 91584
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Please enter the name of the record you would like to display! ZIMMER BIOMET HOLDINGS
+Found requested record! ZIMMER_BIOMET_HOLDINGS 352 WARSAW IN 46580 18500
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Please enter the name of the record you would like to display! MYCOMPANY
+Sorry, the record you requested could not be found ): 
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Please enter the name of the record you would like to display! WALMART
+Found requested record! WALMART 1 BENTONVILLE AR 72716 2300000
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 4
+You picked 4
+Please enter the name of the record you would like to update! WALAR  MART
+     
+Please enter what you would like to update (re-enter same data if you wish to leave it as is):
+Rank: 1
+City: BENTONVILLE
+State: AR
+Zip: 72716
+Employees: 2350000
+Successfully updated record: 
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Please enter the name of the record you would like to display! WALA MART
+Found requested record! WALMART 1 BENTONVILLE AR 72716 2350000
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 7
+You picked 7
+Creating a report of the first 10 records...
+Report with top 10 records created in report.txt!
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 5
+You picked 5
+Please enter the name of the record you wish to add: SECRET MACHINES
+And the rank? 1
+The city? FAYVILLE
+Please enter the state: AR
+...And the zip? 72701
+Finally, how many employees? 2333   51
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 5
+You picked 5
+Please enter the name of the record you wish to add: CHICKEN FARMS
+And the rank? 1
+The city? CONWAY
+Please enter the state: AR
+...And the zip? 82928
+Finally, how many employees? 1
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 5
+You picked 5
+Please enter the name of the record you wish to add: OMNIC
+And the rank? 8
+The city? QUEENS
+Please enter the state: NY
+...And the zip? 028392
+Finally, how many employees? 87
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Please enter the name of the record you would like to display! SECRET MACHINES
+Found requested record! SECRET_MACHINES 1 FAYVILLE AR 72701 251
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 6
+You picked 6
+What is the name of the record you wish to delete? WELLS FARGO
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Please enter the name of the record you would like to display! WELLS FARGO
+Sorry, the record you requested could not be found ): 
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: M 5
+You picked 5
+Please enter the name of the record you wish to add: MINIONS UTOPIA
+And the rank? 1
+The city? 4
+Please enter the state: 383
+...And the zip? 2324
+Finally, how many employees? 80
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 5
+You picked 5
+Please enter the name of the record you wish to add: MEAGA      AGA MECH
+And the rank? 90
+The city? CALCUTTA
+Please enter the state: WB
+...And the zip? 9282
+Finally, how many employees? 90
+Now db has: 505 records
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Please enter the name of the record you would like to display! SECRET MACHINES
+Found requested record! SECRET_MACHINES 1 FAYVILLE AR 72701 251
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Please enter the name of the record you would like to display! APPLE
+Found requested record! APPLE 3 CUPERTINO CA 95014 116000
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Please enter the name of the record you would like to display! 3M
+Found requested record! 3M 94 MAPLEWOOD MN 55144 91584
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Please enter the name of the record you would like to display! ZIMMER BIOMET HOLDINGS
+Found requested record! ZIMMER_BIOMET_HOLDINGS 352 WARSAW IN 46580 18500
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 8
+You picked 8
+Successfully closed database! Thank u for your time :)
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 3
+You picked 3
+Error: no database is currently open ):
+
+Enter '1' to create a database
+      '2' to open an existing database
+      '3' to display a record
+      '4' to update a record
+      '5' to add a record
+      '6' to delete a record
+      '7' to create a report
+      '8' to close the database
+      '9' to quit the program
+Selection: 9
+You picked 9
+Successfully closed database! Thank u for your time :)
+[1m[7m%[27m[1m[0m                                                                                ]2;rghosh@Rashis-MacBook-Pro: ~/Desktop/dbhw1]1;~/Desktop/dbhw1[0m[27m[24m[J[32mrghosh[32m@Rashis-MacBook-Pro[00m ~/Desktop/dbhw1 [31m»[00m [K[?1h=[?2004heexit[?1l>[?2004l
+]2;exit]1;exit
+Script done on Wed Feb  5 19:23:28 2020
